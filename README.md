@@ -14,7 +14,7 @@ To make a list, click - and a list button will be shown, as below:
   b) another thing
   c) yet again
 
-  or you could do something like
+  or
 
   1. name
   2. age
@@ -52,3 +52,5 @@ More tips for this at:
 https://github.com/margittennosaar/markdown_study_materials/blob/master/markdown-syntax.md
 
 Other materials also: https://github.com/margittennosaar/markdown_study_materials/tree/master
+
+:skull::skull::skull:
